@@ -8,6 +8,7 @@ This is a summary of xtensor related libraries.
 - homepage : https://quantstack.net/xtensor
 - github : https://github.com/QuantStack/xtensor
 - summary of related projects : https://xtensor.readthedocs.io/en/latest/related.html
+- try it on c++17 notebook on binder : https://gke.mybinder.org/v2/gh/QuantStack/xtensor/stable?filepath=notebooks/xtensor.ipynb
 ---
 
 ## libraries based on xtensor
